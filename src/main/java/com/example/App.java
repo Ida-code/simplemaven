@@ -1,4 +1,4 @@
-package com.example
+package com.example;
 
 public class App{
 
@@ -26,7 +26,7 @@ public int divide(int a, int b ){
 public static void main(String args[]){
   App cal=new App();
   int result=calc.add(10,5);
-  System.out.println("Result of addition is"+result)
+  System.out.println("Result of addition is"+result);
 
     }
 }
