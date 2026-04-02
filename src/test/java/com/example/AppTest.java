@@ -15,7 +15,7 @@ public class AppTest{
   }
   @Test
   public void testSubtraction(){
-    assertEquals(5,calc.subtract(10,5));
+    assertEquals(5,calc.sub(10,5));
       }
 
 
