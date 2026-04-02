@@ -28,5 +28,5 @@ public class AppTest{
   public void testDiv(){
     assertEquals(2,calc.divide(10,5));
       }
-
+}
 
