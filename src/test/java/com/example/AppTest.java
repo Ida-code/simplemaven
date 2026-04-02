@@ -15,18 +15,18 @@ public class AppTest{
   }
   @Test
   public void testSubtraction(){
-    assertEquals(5,calc.subtract(10,5))
+    assertEquals(5,calc.subtract(10,5));
       }
 
 
   @Test
   public void testMulti(){
-    assertEquals(50,calc.multiply(10,5))
+    assertEquals(50,calc.multiply(10,5));
       }
 
   @Test
   public void testDiv(){
-    assertEquals(2,calc.divide(10,5))
+    assertEquals(2,calc.divide(10,5));
       }
 
 
