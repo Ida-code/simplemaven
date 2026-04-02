@@ -1,7 +1,7 @@
 package com.example;
 
 import org.junit.test;
-import static org.junit.assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 
 public class AppTest{
